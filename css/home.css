@@ -1,1 +1,30 @@
-empty file.
+#header {
+    width: 100%;
+    background: #B5D5FF;
+}
+
+#header #logo {
+    font-family: verdana;
+    font-size: 25px;
+    font-weight: bold;   
+    color: #3B8ACD;
+    line-height: 50px;
+    text-indent: 30px;
+}
+
+#header #slogan {
+    color: green;
+    text-indent: 100px;
+    line-height: 25px;
+    font-size: 18px;
+    text-decoration: underline;  
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#footer {
+    width: 100%;
+}

@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    alert("jQuery has been installed :)");
+    //alert("jQuery has been installed :)");
 });
